@@ -1,0 +1,22 @@
+.Timmer{
+    margin-top: 70px;
+
+   background-color: aqua;
+   width: 50%;
+   margin: auto;
+   padding: 2rem 0;
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.505);
+   border-radius: 10px;
+}
+.Timmer button{
+    margin: 1rem;
+    font-size: 1.2rem;
+    padding: .8rem 1.5rem;
+    border-radius: 10px;
+    /* background-color: skyblue;
+    color: white; */
+    font-weight: bold;
+    outline: none;
+    border: 1px solid black;
+    
+}
